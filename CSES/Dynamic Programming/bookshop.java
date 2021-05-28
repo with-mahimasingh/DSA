@@ -1,4 +1,4 @@
-//Problem name: Book Shop     Task: 1158
+//Problem: Book Shop (1158)
 //Based on: 0/1 Knapsack
 import java.io.*;
 import java.util.*;
