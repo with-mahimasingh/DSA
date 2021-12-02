@@ -47,6 +47,5 @@ public class CSESGraph {
             destroyRoom(grid,i,j+1);
             destroyRoom(grid,i-1,j);
             destroyRoom(grid,i,j-1);
- 
         }
 }
